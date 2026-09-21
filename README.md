@@ -16,7 +16,8 @@ The private AIDA 1141 repository is the working and evidence repository. D2L rem
 
 ## Course continuity
 
-Apex Facilities remains the continuing AIDA 1141 case. These graded labs provide structured practice and evidence that support the approved course outcomes and project work.
+These graded labs provide structured practice and evidence that support the
+approved course outcomes.
 
 ## Organization
 

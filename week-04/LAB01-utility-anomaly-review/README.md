@@ -3,13 +3,15 @@
 ## Week 4 graded lab
 
 **Course:** AIDA 1141 — Introduction to Machine Learning and Data Science  
-**Business context:** Apex Facilities Platform  
-**Assessment:** LAB03, Part A/B  
+**Business context:** Fictional facilities operations team  
+**Assessment:** Graded Lab 1  
 **Value:** Use the approved course weighting in D2L.
 
 ## Business case
 
-You are a junior data analyst supporting an Apex Facilities operations manager. The manager is responsible for occupied campus buildings and has noticed that some weekly utility readings appear higher than expected.
+You are a junior data analyst supporting a facilities operations manager. The
+manager is responsible for occupied campus buildings and has noticed that some
+weekly utility readings appear higher than expected.
 
 The manager needs an initial, decision-ready review of fictional utility data:
 
@@ -25,7 +27,7 @@ The manager is not asking for a production application or a database system. The
 Use:
 
 ~~~text
-data/apex_utility_weekly.csv
+data/utility_weekly.csv
 ~~~
 
 All records are fictional. The file contains weekly readings for occupied buildings.
@@ -130,7 +132,7 @@ Commit and push your work to your private AIDA 1141 repository:
 
 ~~~powershell
 git add .
-git commit -m "Complete LAB03 utility anomaly review"
+git commit -m "Complete AIDA 1141 Graded Lab 1"
 git push
 ~~~
 
@@ -153,4 +155,5 @@ Your work must identify:
 - the limitation;
 - the next validation step.
 
-This lab is within the approved Apex Facilities course context. The simplified CSV workflow is intentional: it lets you demonstrate Week 4 exploratory analysis and visualization without building the larger platform.
+The simplified CSV workflow is intentional: it lets you demonstrate Week 4
+exploratory analysis and visualization without building a larger platform.

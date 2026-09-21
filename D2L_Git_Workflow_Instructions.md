@@ -123,7 +123,7 @@ For a non-graded practice lab, the instructor may only require the GitHub push. 
 - Do not create a new private repository for every lab.
 - Do not use another student's repository.
 - Do not commit passwords, API keys, database credentials, or personal information.
-- Keep Apex-related work in your assigned private AIDA 1141 repository when required.
-- A standalone practice lab does not replace the continuing Apex Facilities case.
+- Keep all course work in your assigned private AIDA 1141 repository.
+- Practice labs and graded labs are standalone, outcome-aligned weekly work.
 
 If something goes wrong, send the instructor your private repository URL, the command you ran, the full error message, and a screenshot of the relevant VS Code or GitHub page. Never send passwords or access tokens.

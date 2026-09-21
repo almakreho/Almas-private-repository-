@@ -5,7 +5,7 @@ import pandas as pd
 
 
 ROOT = Path(__file__).parent
-DATA = ROOT / "data" / "apex_utility_weekly.csv"
+DATA = ROOT / "data" / "utility_weekly.csv"
 OUTPUTS = ROOT / "outputs"
 CHARTS = OUTPUTS / "charts"
 TABLES = OUTPUTS / "tables"
@@ -48,4 +48,3 @@ print("Duplicate building/week records:",
 # TODO: chart average variance percentage by building.
 
 print("Complete the TODO sections, save outputs, and write decision_note.md.")
-
