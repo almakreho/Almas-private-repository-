@@ -1,4 +1,4 @@
-# LAB03 — Utility-Consumption Anomaly Review
+# Graded Lab 1 — Utility-Consumption Anomaly Review
 
 ## Week 4 graded lab
 
@@ -154,4 +154,3 @@ Your work must identify:
 - the next validation step.
 
 This lab is within the approved Apex Facilities course context. The simplified CSV workflow is intentional: it lets you demonstrate Week 4 exploratory analysis and visualization without building the larger platform.
-
