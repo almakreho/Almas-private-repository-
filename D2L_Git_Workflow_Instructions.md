@@ -20,7 +20,7 @@ Do not push your work to an instructor source repository.
 Practice Lab 1 is located at:
 
 ~~~text
-week-04/campus-bookstore-worked-lab/
+week-04/practice-campus-bookstore-analysis/
 ~~~
 
 ### Graded labs
@@ -55,7 +55,7 @@ Open the instructor source repository and select **Code → Download ZIP**, or c
 Copy the complete lab folder into your private AIDA 1141 repository. For Practice Lab 1, copy:
 
 ~~~text
-week-04/campus-bookstore-worked-lab/
+week-04/practice-campus-bookstore-analysis/
 ~~~
 
 The course source repository is where the instructor distributes files. Your private repository is where you complete and submit your work.

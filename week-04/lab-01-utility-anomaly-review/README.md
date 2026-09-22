@@ -1,4 +1,4 @@
-# Graded Lab 1 — Utility-Consumption Anomaly Review
+# Week 4 — Lab 1: Utility-Consumption Anomaly Review
 
 ## Week 4 graded lab
 
@@ -6,6 +6,27 @@
 **Business context:** Fictional facilities operations team  
 **Assessment:** Graded Lab 1  
 **Value:** Use the approved course weighting in D2L.
+
+## Before you start
+
+This is the **one graded lab for Week 4**. Complete every requirement in this
+one folder, push it to your private AIDA 1141 repository, and submit **one**
+private repository link in D2L. Do not push to this instructor repository.
+
+1. Clone or pull the `AIDA_1141_Graded_Labs` repository.
+2. Copy the folder `week-04/lab-01-utility-anomaly-review` into your private
+   AIDA 1141 repository. Keep the folder name unchanged.
+3. Open the copied folder in VS Code.
+4. In the VS Code terminal, run:
+
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+py -m pip install -r requirements.txt
+py starter_analysis.py
+```
+
+The starter is not a completed answer. You must complete the analysis yourself.
 
 ## Business case
 
@@ -116,10 +137,10 @@ Do not claim that an anomaly proves equipment failure. An anomaly identifies a r
 
 ### Deliverable 5 — Reproducibility and Git
 
-Your private AIDA 1141 repository must contain:
+Your private AIDA 1141 repository must contain this completed folder:
 
 ~~~text
-lab03-utility-anomaly/
+lab-01-utility-anomaly-review/
 ├── data/
 ├── outputs/
 ├── analysis.py or notebook
@@ -128,15 +149,24 @@ lab03-utility-anomaly/
 └── README.md
 ~~~
 
-Commit and push your work to your private AIDA 1141 repository:
+When every deliverable is complete, commit and push your work to your private
+AIDA 1141 repository:
 
 ~~~powershell
 git add .
-git commit -m "Complete AIDA 1141 Graded Lab 1"
+git commit -m "Complete AIDA 1141 Lab 1"
 git push
 ~~~
 
-Submit the private repository URL and any required export through D2L.
+## Submit once through D2L
+
+1. Confirm that the completed folder, outputs, code, and decision note appear
+   in your private GitHub repository.
+2. Copy the URL of your private AIDA 1141 repository.
+3. Submit that link and any required export through D2L **once**.
+
+Do not submit the practice folder and do not make separate submissions for the
+tables, charts, and decision note.
 
 ## Student starter
 
