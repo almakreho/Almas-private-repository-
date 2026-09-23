@@ -27,3 +27,9 @@ week-05/
 week-06/
 ...
 ```
+
+The active post-Apex numbering is Week 4 = Lab 1, Week 5 = Lab 2, and Week 6 =
+Lab 3. These weekly labels replace old Apex-era labels in current student
+instructions; they do not change official course records or approved weights.
+
+- [Week 5 — Graded Lab 2: Campus Bookstore Restock Predictions](week-05/lab-02-campus-bookstore-restock-predictions/README.md)
