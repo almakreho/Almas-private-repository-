@@ -33,3 +33,4 @@ Lab 3. These weekly labels replace old Apex-era labels in current student
 instructions; they do not change official course records or approved weights.
 
 - [Week 5 — Graded Lab 2: Campus Bookstore Restock Predictions](week-05/lab-02-campus-bookstore-restock-predictions/README.md)
+- [Week 6 — Graded Lab 3: Train and Validate an Event Setup Model](week-06/lab-03-event-setup-model-validation/README.md)
