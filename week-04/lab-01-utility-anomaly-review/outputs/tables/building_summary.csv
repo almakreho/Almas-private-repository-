@@ -1,0 +1,5 @@
+building,total_energy,total_baseline,avg_variance_percentage,anomaly_count
+Library,9390,9000,4.333333333333333,0
+North Hall,6480,6000,8.0,1
+Science Centre,8295,7800,6.346153846153847,1
+South Hall,7075,6600,7.196969696969696,2

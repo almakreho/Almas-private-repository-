@@ -1,0 +1,5 @@
+building,week_start,occupied_hours,energy_kwh,baseline_kwh,comfort_incidents,maintenance_ticket,variance_kwh,variance_pct,anomaly
+South Hall,2026-09-15,69,1265,1100,2,Yes,165,15.0,True
+North Hall,2026-09-29,72,1310,1000,3,Yes,310,31.0,True
+Science Centre,2026-09-29,74,1665,1300,2,Yes,365,28.076923076923077,True
+South Hall,2026-10-06,72,1210,1100,1,No,110,10.0,True
