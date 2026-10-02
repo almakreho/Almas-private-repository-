@@ -1,0 +1,2 @@
+x_class = product_id, units_sold_last_week, stock_on_hand, days_until_delivery, reorder now, recommended_order_units;
+y_class
